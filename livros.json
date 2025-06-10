@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "684897ec262261c53f91517e"
+  },
+  "titulo": "Mulheres que Correm com os Lobos",
+  "autora": "Clarissa Pinkola Estés",
+  "ano": 1992,
+  "genero": "Psicologia",
+  "disponivel": true
+},
+{
+  "_id": {
+    "$oid": "6848984d262261c53f915180"
+  },
+  "titulo": "A Coragem de Ser Imperfeito",
+  "autora": "Brené Brown",
+  "ano": 2012,
+  "genero": "Autoajuda",
+  "disponivel": false
+},
+{
+  "_id": {
+    "$oid": "68489aef262261c53f915184"
+  },
+  "titulo": "Mindset: A Psicologia do Sucesso",
+  "autora": "Carol S. Dweck",
+  "ano": 2017,
+  "genero": "Autoajuda",
+  "disponivel": false
+},
+{
+  "_id": {
+    "$oid": "68489c15262261c53f915186"
+  },
+  "titulo": "O Poder da Autorresponsabilidade",
+  "autora": "Paulo Vieira",
+  "ano": 2018,
+  "genero": "Autoajuda",
+  "disponivel": true
+}]
