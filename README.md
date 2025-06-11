@@ -30,12 +30,12 @@ O objetivo principal foi criar uma base de dados simulando uma pequena bibliotec
 ---
 
 ## 🗂 Estrutura do Repositório
-📁 mongodb-projeto-livros
-- 📄 README.md # Documentação principal do projeto
- - 📁 arquivos-do-projeto # Contém imagens das consultas e o arquivo JSON
- - imagens-consultas/ # Prints das consultas com filtros
- - documentos-livros.json # Arquivo com os documentos inseridos
- - 📄 relatorio-projeto.md # Relatório completo do projeto
+projeto-mongodb-biblioteca
+- imagens_filtro_projeto_mongodb.pdf        # Prints das consultas no MongoDB Compass
+- livros.json                               # Dados fictícios da coleção de livros
+- relatorio-projeto-mongodb-biblioteca.pdf  # Relatório com resumo do projeto
+- README.md                                 # Descrição e instruções do projeto
+
 
 ## 🛠 Tecnologias Utilizadas
 
