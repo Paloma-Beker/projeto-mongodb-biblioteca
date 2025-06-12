@@ -58,4 +58,4 @@ Este projeto proporcionou uma vivência prática no uso do MongoDB Compass para 
 ## 👩‍💻 Autora
 
 **Paloma Beker**
-
+🎓 Cursando Ciência de Dados
