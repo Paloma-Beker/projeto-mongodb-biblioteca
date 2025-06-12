@@ -52,6 +52,7 @@ projeto-mongodb-biblioteca
 ---
 
 ✅ Conclusão
+
 Este projeto proporcionou uma vivência prática no uso do MongoDB Compass para inserção, organização e consulta de dados em formato não relacional. Através da modelagem e importação de documentos JSON e da execução de consultas com múltiplos filtros, foi possível compreender melhor como estruturar coleções, manipular dados e explorar suas relações sem o uso de SQL. Essa experiência reforçou conceitos de bancos NoSQL e agregou uma base sólida para projetos futuros que envolvam dados semi-estruturados e soluções escaláveis em ambientes de dados.
 
 ## 👩‍💻 Autora
