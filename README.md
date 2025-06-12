@@ -28,6 +28,9 @@ O objetivo principal foi criar uma base de dados simulando uma pequena bibliotec
 - Organização de repositório e documentação técnica
 
 ---
+### Banco de Dados
+Este projeto utiliza o MongoDB Atlas, uma solução de banco de dados NoSQL na nuvem.  
+A conexão foi feita via MongoDB Compass para facilitar a visualização e inserção dos dados na coleção `livros`.
 
 ## 🗂 Estrutura do Repositório
 projeto-mongodb-biblioteca
